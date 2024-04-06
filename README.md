@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## Output images
 
-## opening window
+## Opening window
 ["https://github.com/Ramreddy2748/Healthcare_chatbot_using_Tkinter/blob/main/firstwindow.png"]
 
 ## Main window
