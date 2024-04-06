@@ -29,21 +29,30 @@ python -m spacy download en_core_web_sm
 --> Navigate to Project Directory
 
 ## create a new environment
---> python3.9 -m venv myenv
+
+```bash
+python3.9 -m venv myenv
+```
 
 ## activate environment
---> source myenv/bin/activate
+```bash
+source myenv/bin/activate
+```
 
 ## install the requirements
---> pip install -r requirements.txt 
+```bash
+pip install -r requirements.txt 
+```
 
 
 
 ## Output images
 
+## opening window
+["https://github.com/Ramreddy2748/Healthcare_chatbot_using_Tkinter/blob/main/firstwindow.png"]
 
-
-
+## Main window
+["https://github.com/Ramreddy2748/Healthcare_chatbot_using_Tkinter/blob/main/main_window.png"]
 
 
 
